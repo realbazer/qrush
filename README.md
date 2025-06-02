@@ -8,10 +8,10 @@
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
   [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
-  [![Stars](https://img.shields.io/github/stars/yourusername/qrush?style=for-the-badge)](https://github.com/yourusername/qrush/stargazers)
-  [![Forks](https://img.shields.io/github/forks/yourusername/qrush?style=for-the-badge)](https://github.com/yourusername/qrush/network/members)
-  [![Issues](https://img.shields.io/github/issues/yourusername/qrush?style=for-the-badge)](https://github.com/yourusername/qrush/issues)
-  [![Downloads](https://img.shields.io/github/downloads/yourusername/qrush/total?style=for-the-badge)](https://github.com/yourusername/qrush/releases)
+  [![Stars](https://img.shields.io/github/stars/realbazer/qrush?style=for-the-badge)](https://github.com/yourusername/qrush/stargazers)
+  [![Forks](https://img.shields.io/github/forks/realbazer/qrush?style=for-the-badge)](https://github.com/yourusername/qrush/network/members)
+  [![Issues](https://img.shields.io/github/issues/realbazer/qrush?style=for-the-badge)](https://github.com/yourusername/qrush/issues)
+  [![Downloads](https://img.shields.io/github/downloads/realbazer/qrush/total?style=for-the-badge)](https://github.com/yourusername/qrush/releases)
 </div>
 
 ---
@@ -21,7 +21,7 @@
 <div align="center">
   
 | 🏗️ **Build Status** | 📱 **Platforms** | 
-|:---:|:---:|:---:|:---:|
+|:---:|:---:
 | [![Build](https://img.shields.io/github/actions/workflow/status/realbazer/qrush/build.yml?branch=main&style=flat-square)](https://github.com/realbazer/qrush/actions) | iOS • Android • Windows • macOS • Linux |
 
 </div>
@@ -113,9 +113,7 @@ flutter build linux --release
 |:---:|:---:|
 | **Framework** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Language** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **State Management** | ![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=flat-square) |
-| **Database** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Camera** | ![Camera](https://img.shields.io/badge/Camera-4CAF50?style=flat-square) |
+| **State Management** | ![❌] |
 
 </div>
 
