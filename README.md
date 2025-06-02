@@ -20,9 +20,9 @@
 
 <div align="center">
   
-| 🏗️ **Build Status** | 📱 **Platforms** | 🌟 **Rating** | 📥 **Downloads** |
+| 🏗️ **Build Status** | 📱 **Platforms** | 
 |:---:|:---:|:---:|:---:|
-| [![Build](https://img.shields.io/github/actions/workflow/status/yourusername/qrush/build.yml?branch=main&style=flat-square)](https://github.com/yourusername/qrush/actions) | iOS • Android • Windows • macOS • Linux | ⭐⭐⭐⭐⭐ | 10K+ |
+| [![Build](https://img.shields.io/github/actions/workflow/status/realbazer/qrush/build.yml?branch=main&style=flat-square)](https://github.com/realbazer/qrush/actions) | iOS • Android • Windows • macOS • Linux |
 
 </div>
 
