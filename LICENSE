@@ -1,0 +1,130 @@
+MIT License
+
+Copyright (c) 2025 QRush Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Third-Party Licenses
+
+QRush uses the following third-party libraries and dependencies:
+
+### Flutter Framework
+- **License**: BSD 3-Clause License
+- **Copyright**: Copyright 2014 The Flutter Authors
+- **URL**: https://github.com/flutter/flutter/blob/master/LICENSE
+
+### QR Code Dart
+- **License**: BSD 3-Clause License
+- **Copyright**: Copyright 2019 Luke Freeman
+- **URL**: https://pub.dev/packages/mobile_scanner/license
+
+### ML Kit for Google APIs
+- **License**: Apache License 2.0
+- **Copyright**: Copyright 2017 Google Inc.
+- **URL**: https://developers.google.com/ml-kit/terms
+
+### Path Provider
+- **License**: BSD 3-Clause License
+- **Copyright**: Copyright 2013 The Flutter Authors
+- **URL**: https://pub.dev/packages/path_provider/license
+
+### Share Plus
+- **License**: BSD 3-Clause License
+- **Copyright**: Copyright 2013 The Flutter Authors
+- **URL**: https://pub.dev/packages/share_plus/license
+
+### URL Launcher
+- **License**: BSD 3-Clause License
+- **Copyright**: Copyright 2013 The Flutter Authors
+- **URL**: https://pub.dev/packages/url_launcher/license
+
+---
+
+## Contributor License Agreement (CLA)
+
+By contributing to QRush, you agree that your contributions will be licensed under the same MIT License that covers the project. You also represent that you have the right to make such contributions.
+
+### What this means:
+- Your contributions become part of the open-source QRush project
+- Your code will be available under the MIT License
+- You retain copyright to your original contributions
+- You grant QRush the right to use, modify, and distribute your contributions
+
+---
+
+## Assets and Resources
+
+### Icons and Images
+- **App Icons**: Original design by QRush team (MIT License)
+- **UI Icons**: Lucide Icons (ISC License) - https://lucide.dev/license
+- **Illustrations**: Original or CC0 licensed content
+
+### Fonts
+- **System Fonts**: Platform default fonts (various licenses)
+- **Custom Fonts**: If any, listed with appropriate licenses
+
+---
+
+## Patent Rights
+
+This MIT License includes an implied patent license. Contributors grant a license to any patent claims they may have that are necessarily infringed by their contributions to the project.
+
+---
+
+## Trademark Notice
+
+"QRush" and the QRush logo are trademarks of the QRush project. Use of these trademarks is subject to the project's trademark policy.
+
+---
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This includes but is not limited to:
+- Camera and hardware functionality
+- QR code scanning accuracy
+- Data security and privacy
+- Cross-platform compatibility
+- Performance on specific devices
+
+---
+
+## Commercial Use
+
+This MIT License permits commercial use of QRush. You may:
+- Use QRush in commercial applications
+- Sell applications that include QRush
+- Offer QRush as part of a commercial service
+- Modify QRush for commercial purposes
+
+**Requirements for commercial use:**
+- Include the original MIT License notice
+- Include copyright notice
+- Don't use QRush trademarks without permission
+
+---
+
+## Export Control
+
+This software may be subject to export control laws and regulations. Users are responsible for compliance with all applicable export control laws in their jurisdiction.
+
+*Last updated: June 2025*
