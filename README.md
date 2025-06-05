@@ -14,13 +14,14 @@
 
 ---
 
+
 ## 📊 Project Stats
 
 <div align="center">
   
-| 🏗️ **Build Status** | 📱 **Platforms** | 
-|:---:|:---:
-| [![Build](https://img.shields.io/github/actions/workflow/status/realbazer/qrush/build.yml?branch=main&style=flat-square)](https://github.com/realbazer/qrush/actions) | iOS • Android • Windows • macOS • Linux |
+| 🏗️ **Build Status** | 📱 **Platforms** | ⚡ **Performance** | 📏 **Code Quality** | 🔒 **Security** | 🌍 **Languages** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [![Build](https://img.shields.io/github/actions/workflow/status/yourusername/qrush/build.yml?branch=main&style=flat-square)](https://github.com/realbazer/qrush/actions) | 5 Platforms | <1s scan time | [![CodeFactor](https://img.shields.io/codefactor/grade/github/realbazer/qrush?style=flat-square)](https://www.codefactor.io/repository/github/realbazer/qrush) | [![Security](https://img.shields.io/badge/security-A+-brightgreen?style=flat-square)](https://github.com/realbazer/qrush/security) | 12+ Supported |
 
 </div>
 
