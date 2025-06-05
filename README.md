@@ -31,9 +31,9 @@
 
 <!-- Screenshots placeholder - Add your app screenshots here -->
 <div align="center">
-  <img src="screenshots/home_screen.png" alt="Scan Screen" width="250">
-  <img src="screenshots/scanner_screen.png" alt="Upload Screen" width="250">
-  <img src="screenshots/history_screen.png" alt="Create Screen" width="250">
+  <img src="screenshots/scan.png" alt="Scan Screen" width="250">
+  <img src="screenshots/upload.png" alt="Upload Screen" width="250">
+  <img src="screenshots/create.png" alt="Create Screen" width="250">
 </div>
 
 ---
@@ -41,11 +41,13 @@
 ## ✨ Features
 
 <!-- Features section - Fill this with your app's features -->
-- 🚀 **Feature 1** - Description coming soon
-- 📱 **Feature 2** - Description coming soon  
-- 🔒 **Feature 3** - Description coming soon
-- 🎨 **Feature 4** - Description coming soon
-- ⚡ **Feature 5** - Description coming soon
+- 🚀 **Feature 1** - Scan barcodes & share/open links
+- 📱 **Feature 2** - Upload barcodes from gallery
+- 🔒 **Feature 3** - Create & share barcodes
+- 🎨 **Feature 4** - Customize your own barcodes
+- ⚡ **Feature 5** - Create barcodes with emails,phones,sms and etc.
+- ⭐ **Feature 4** - You can add your own presets
+- 👾 **Feature 5** - Adding a logo to a barcode
 
 ---
 
@@ -62,7 +64,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/qrush.git
+   git clone https://github.com/realbazer/qrush.git
    cd qrush
    ```
 
@@ -112,7 +114,7 @@ flutter build linux --release
 |:---:|:---:|
 | **Framework** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Language** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **State Management** | ![❌] |
+| **State Management** | ❌ |
 
 </div>
 
@@ -138,17 +140,17 @@ flutter build linux --release
 
 <!-- To-Do section - Fill this with your future plans -->
 ### 🔮 Upcoming Features
-- [ ] **Feature A** - Detailed description coming soon
-- [ ] **Feature B** - Detailed description coming soon
-- [ ] **Feature C** - Detailed description coming soon
+- [ ] **Feature A** - Adding more barcode customization
+- [ ] **Feature B** - History of created barcodes
+- [ ] **Feature C** - Add support for adding GIFs and photos to background
 
 ### 🐛 Known Issues
-- [ ] **Issue 1** - Description coming soon
-- [ ] **Issue 2** - Description coming soon
+- [ ] **Issue 1** - Smoke and light theme don't work together
+- [ ] **Issue 2** - Some errors on windows and mac
 
 ### 💡 Future Enhancements
-- [ ] **Enhancement 1** - Description coming soon
-- [ ] **Enhancement 2** - Description coming soon
+- [ ] **Enhancement 1** - Improve code quality and add state managment
+- [ ] **Enhancement 2** - Improve the function of adding a logo
 
 ---
 
@@ -175,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Thanks to the Flutter team for the amazing framework
-- Icons by [Icons8](https://icons8.com)
+- Thank you for the [library](https://pub.dev/packages/mobile_scanner)
 - Special thanks to all contributors
 
 ---
@@ -184,13 +186,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/qrush/discussions)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=x&logoColor=white)](https://x.com/realbazer)
 
-**Found a bug?** [Report it here](https://github.com/yourusername/qrush/issues/new?assignees=&labels=bug&template=bug_report.md)
+**Found a bug?** [Report it here](https://github.com/realbazer/qrush/issues/new?assignees=&labels=bug&template=bug_report.md)
 
-**Have a feature request?** [Suggest it here](https://github.com/yourusername/qrush/issues/new?assignees=&labels=enhancement&template=feature_request.md)
+**Have a feature request?** [Suggest it here](https://github.com/realbazer/qrush/issues/new?assignees=&labels=enhancement&template=feature_request.md)
 
 </div>
 
@@ -200,6 +200,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
   **⭐ Star this repo if you found it helpful! ⭐**
   
-  Made with ❤️ by [Your Name](https://github.com/yourusername)
+  Made with ❤️ by [Emin](https://github.com/realbazer)
   
 </div>
