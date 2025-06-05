@@ -46,6 +46,8 @@
 - 🔒 **Feature 3** - Create & share barcodes
 - 🎨 **Feature 4** - Customize your own barcodes
 - ⚡ **Feature 5** - Create barcodes with emails,phones,sms and etc.
+- ⭐ **Feature 4** - You can add your own presets
+- 👾 **Feature 5** - Adding a logo to a barcode
 
 ---
 
@@ -112,7 +114,7 @@ flutter build linux --release
 |:---:|:---:|
 | **Framework** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Language** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **State Management** | ![❌] |
+| **State Management** | ❌ |
 
 </div>
 
@@ -138,17 +140,17 @@ flutter build linux --release
 
 <!-- To-Do section - Fill this with your future plans -->
 ### 🔮 Upcoming Features
-- [ ] **Feature A** - Detailed description coming soon
-- [ ] **Feature B** - Detailed description coming soon
-- [ ] **Feature C** - Detailed description coming soon
+- [ ] **Feature A** - Adding more barcode customization
+- [ ] **Feature B** - History of created barcodes
+- [ ] **Feature C** - Add support for adding GIFs and photos to background
 
 ### 🐛 Known Issues
-- [ ] **Issue 1** - Description coming soon
-- [ ] **Issue 2** - Description coming soon
+- [ ] **Issue 1** - Smoke and light theme don't work together
+- [ ] **Issue 2** - Some errors on windows and mac
 
 ### 💡 Future Enhancements
-- [ ] **Enhancement 1** - Description coming soon
-- [ ] **Enhancement 2** - Description coming soon
+- [ ] **Enhancement 1** - Improve code quality and add state managment
+- [ ] **Enhancement 2** - Improve the function of adding a logo
 
 ---
 
