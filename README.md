@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Thanks to the Flutter team for the amazing framework
-- Icons by [Icons8](https://icons8.com)
+- Thank you for the [library]([https://icons8.com](https://pub.dev/packages/mobile_scanner))
 - Special thanks to all contributors
 
 ---
@@ -186,13 +186,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/qrush/discussions)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/realbazer/qrush/discussions)
+[![Twitter](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=x&logoColor=white)](https://x.com/realbazer)
 
-**Found a bug?** [Report it here](https://github.com/yourusername/qrush/issues/new?assignees=&labels=bug&template=bug_report.md)
+**Found a bug?** [Report it here](https://github.com/realbazer/qrush/issues/new?assignees=&labels=bug&template=bug_report.md)
 
-**Have a feature request?** [Suggest it here](https://github.com/yourusername/qrush/issues/new?assignees=&labels=enhancement&template=feature_request.md)
+**Have a feature request?** [Suggest it here](https://github.com/realbazer/qrush/issues/new?assignees=&labels=enhancement&template=feature_request.md)
 
 </div>
 
@@ -202,6 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   
   **⭐ Star this repo if you found it helpful! ⭐**
   
-  Made with ❤️ by [Your Name](https://github.com/yourusername)
+  Made with ❤️ by [Emin](https://github.com/realbazer)
   
 </div>
