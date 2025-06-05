@@ -41,11 +41,11 @@
 ## ✨ Features
 
 <!-- Features section - Fill this with your app's features -->
-- 🚀 **Feature 1** - Description coming soon
-- 📱 **Feature 2** - Description coming soon  
-- 🔒 **Feature 3** - Description coming soon
-- 🎨 **Feature 4** - Description coming soon
-- ⚡ **Feature 5** - Description coming soon
+- 🚀 **Feature 1** - Scan barcodes & share/open links
+- 📱 **Feature 2** - Upload barcodes from gallery
+- 🔒 **Feature 3** - Create & share barcodes
+- 🎨 **Feature 4** - Customize your own barcodes
+- ⚡ **Feature 5** - Create barcodes with emails,phones,sms and etc.
 
 ---
 
