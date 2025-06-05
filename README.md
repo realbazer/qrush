@@ -1,5 +1,3 @@
-# QRush
-<!-- Logo placeholder - Add your logo here -->
 <div align="center">
   <img src="assets/logo.png" alt="QRush Logo" width="120" height="120">
   
