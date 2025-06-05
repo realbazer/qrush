@@ -31,9 +31,9 @@
 
 <!-- Screenshots placeholder - Add your app screenshots here -->
 <div align="center">
-  <img src="screenshots/home_screen.png" alt="Scan Screen" width="250">
-  <img src="screenshots/scanner_screen.png" alt="Upload Screen" width="250">
-  <img src="screenshots/history_screen.png" alt="Create Screen" width="250">
+  <img src="screenshots/scan.png" alt="Scan Screen" width="250">
+  <img src="screenshots/upload.png" alt="Upload Screen" width="250">
+  <img src="screenshots/create.png" alt="Create Screen" width="250">
 </div>
 
 ---
