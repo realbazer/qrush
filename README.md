@@ -21,7 +21,7 @@
   
 | 📱 **Platforms** | 📏 **Code Quality** | 🔒 **Security** | 
 |:---:|:---:|:---:
-| 5 Platforms| [![CodeFactor](https://img.shields.io/codefactor/grade/github/realbazer/qrush?style=flat-square)](https://www.codefactor.io/repository/github/realbazer/qrush) | [![Security](https://img.shields.io/badge/security-A+-brightgreen?style=flat-square)](https://github.com/realbazer/qrush/security) |
+| iOS • Android • Windows • macOS • Linux | [![CodeFactor](https://img.shields.io/codefactor/grade/github/realbazer/qrush?style=flat-square)](https://www.codefactor.io/repository/github/realbazer/qrush) | [![Security](https://img.shields.io/badge/security-A+-brightgreen?style=flat-square)](https://github.com/realbazer/qrush/security) |
 
 </div>
 
