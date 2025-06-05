@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Thanks to the Flutter team for the amazing framework
-- Thank you for the [library]([https://icons8.com](https://pub.dev/packages/mobile_scanner))
+- Thank you for the [library](https://pub.dev/packages/mobile_scanner))
 - Special thanks to all contributors
 
 ---
