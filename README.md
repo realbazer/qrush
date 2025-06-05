@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Thanks to the Flutter team for the amazing framework
-- Thank you for the [library](https://pub.dev/packages/mobile_scanner))
+- Thank you for the [library](https://pub.dev/packages/mobile_scanner)
 - Special thanks to all contributors
 
 ---
@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 [![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/realbazer/qrush/discussions)
-[![Twitter](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=x&logoColor=white)](https://x.com/realbazer)
+[![Twitter](https://img.shields.io/badge/X-D14836?style=for-the-badge&logo=x&logoColor=white)](https://x.com/realbazer)
 
 **Found a bug?** [Report it here](https://github.com/realbazer/qrush/issues/new?assignees=&labels=bug&template=bug_report.md)
 
