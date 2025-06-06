@@ -41,13 +41,13 @@
 ## ✨ Features
 
 <!-- Features section - Fill this with your app's features -->
-- 🚀 **Feature 1** - Scan barcodes & share/open links
-- 📱 **Feature 2** - Upload barcodes from gallery
-- 🔒 **Feature 3** - Create & share barcodes
-- 🎨 **Feature 4** - Customize your own barcodes
-- ⚡ **Feature 5** - Create barcodes with emails,phones,sms and etc.
-- ⭐ **Feature 4** - You can add your own presets
-- 👾 **Feature 5** - Adding a logo to a barcode
+- 🚀 Scan barcodes & share/open links
+- 📱 Upload barcodes from gallery
+- 🔒 Create & share barcodes
+- 🎨 Customize your own barcodes
+- ⚡ Create barcodes with emails,phones,sms and etc.
+- ⭐ You can add your own presets
+- 👾 Adding a logo to a barcode
 
 ---
 
@@ -140,17 +140,17 @@ flutter build linux --release
 
 <!-- To-Do section - Fill this with your future plans -->
 ### 🔮 Upcoming Features
-- [ ] **Feature A** - Adding more barcode customization
-- [ ] **Feature B** - History of created barcodes
-- [ ] **Feature C** - Add support for adding GIFs and photos to background
+- [ ] Adding more barcode customization
+- [ ] History of created barcodes
+- [ ] Add support for adding GIFs and photos to background
 
 ### 🐛 Known Issues
-- [ ] **Issue 1** - Smoke and light theme don't work together
-- [ ] **Issue 2** - Some errors on windows and mac
+- [ ] Smoke and light theme don't work together
+- [ ] Some errors on windows and mac
 
 ### 💡 Future Enhancements
-- [ ] **Enhancement 1** - Improve code quality and add state managment
-- [ ] **Enhancement 2** - Improve the function of adding a logo
+- [ ] Improve code quality and add state managment
+- [ ] Improve the function of adding a logo
 
 ---
 
